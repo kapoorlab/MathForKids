@@ -11,18 +11,18 @@
 | Neuzeit                                | ab ca. 1500 n. Chr.           | Modern Period / Early Modern Times | from ~1500 CE                  |
 | Zeitgeschichte / Gegenwart             | 20./21. Jahrhundert – heute   | Contemporary / Recent History      | 20th/21st century – present    |
 
-| **English Name**                   | **Time Period**                | **Notes / Key Features**                              |
-| ---------------------------------- | ------------------------------ | ----------------------------------------------------- |
-| Precambrian / Early Earth          | ~4.6 billion – 541 million BCE | Formation of Earth, first simple life forms           |
-| Paleozoic                          | 541–252 million BCE            | Early complex life, fish, first land plants           |
-| Mesozoic (Age of Dinosaurs)        | 252–66 million BCE             | Dinosaurs dominate, first birds and mammals           |
-| Cenozoic (Age of Mammals)          | 66 million BCE – present       | Mammals dominate, rise of modern animals              |
-| Prehistory                         | up to ~3000 BCE                | Humans appear, no written records                     |
-| Early History                      | ~3000–500 BCE                  | First civilizations, writing develops                 |
-| Antiquity                          | ~500 BCE – 500 CE              | Greek and Roman civilizations                         |
-| Middle Ages                        | ~500–1500 CE                   | Knights, castles, feudal system, church power         |
-| Modern Period / Early Modern Times | from ~1500 CE                  | Discoveries, Reformation, early industrialization     |
-| Contemporary / Recent History      | 20th/21st century – present    | World Wars, globalization, technology, modern society |
+| **English Name**                   | **Time Period**                | **Notes / Key Features**                              | **Bemerkungen / Schlüsselmerkmale**                           |
+| ---------------------------------- | ------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------- |
+| Precambrian / Early Earth          | ~4.6 billion – 541 million BCE | Formation of Earth, first simple life forms           | Entstehung der Erde, erste einfache Lebensformen              |
+| Paleozoic                          | 541–252 million BCE            | Early complex life, fish, first land plants           | Frühes komplexes Leben, Fische, erste Landpflanzen            |
+| Mesozoic (Age of Dinosaurs)        | 252–66 million BCE             | Dinosaurs dominate, first birds and mammals           | Dinosaurier dominieren, erste Vögel und Säugetiere            |
+| Cenozoic (Age of Mammals)          | 66 million BCE – present       | Mammals dominate, rise of modern animals              | Säugetiere dominieren, Aufstieg moderner Tiere                |
+| Prehistory                         | up to ~3000 BCE                | Humans appear, no written records                     | Menschen erscheinen, keine schriftlichen Aufzeichnungen       |
+| Early History                      | ~3000–500 BCE                  | First civilizations, writing develops                 | Erste Zivilisationen, Entwicklung der Schrift                 |
+| Antiquity                          | ~500 BCE – 500 CE              | Greek and Roman civilizations                         | Griechische und römische Zivilisationen                       |
+| Middle Ages                        | ~500–1500 CE                   | Knights, castles, feudal system, church power         | Ritter, Burgen, Feudalsystem, Macht der Kirche                |
+| Modern Period / Early Modern Times | from ~1500 CE                  | Discoveries, Reformation, early industrialization     | Entdeckungen, Reformation, frühe Industrialisierung           |
+| Contemporary / Recent History      | 20th/21st century – present    | World Wars, globalization, technology, modern society | Weltkriege, Globalisierung, Technologie, moderne Gesellschaft |
 
 | **Deutsch**                         | **Epoche / Zeitraum**                 | **English**                       | **Epoch / Time Period**                            | **Bemerkungen / Notes**                                                                                             |
 | ----------------------------------- | ------------------------------------- | --------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
