@@ -39,3 +39,12 @@ Fenster = Beobachte die Sonne / Window = Observe the sun
 Morgens → Sonne geht auf → Osten / Morning → Sun rises in the East
 
 Abends → Sonne geht unter → Westen / Evening → Sun sets in the West
+
+
+## Tipps / Tips
+
+Fenster orientieren / Use windows: Morgens schauen, wo die Sonne aufgeht → das ist Osten / Look at the sun in the morning → that’s East.
+
+Kompass nutzen / Use a compass: Viele Handys haben Kompass-Apps / Many phones have compass apps.
+
+Zimmer merken / Remember your room: Wenn du weißt, wo Norden ist, kannst du alle anderen Richtungen leicht bestimmen / Once you know North, other directions are easy.
