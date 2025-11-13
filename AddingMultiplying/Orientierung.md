@@ -40,6 +40,23 @@ Morgens → Sonne geht auf → Osten / Morning → Sun rises in the East
 
 Abends → Sonne geht unter → Westen / Evening → Sun sets in the West
 
+## Using the Sun / Die Sonne benutzen
+
+**Morning → Sun rises → East**  
+**Morgen → Sonne geht auf → Osten**
+
+**Evening → Sun sets → West**  
+**Abend → Sonne geht unter → Westen**
+
+Once you know East and West, North is perpendicular to them:  
+Sobald du Osten und Westen kennst, ist Norden senkrecht dazu:
+
+- Stand with East on your right and West on your left → You are facing North.  
+- Stelle dich mit Osten auf deiner rechten Seite und Westen auf deiner linken Seite → Du blickst nach Norden.
+
+- Stand with East on your left and West on your right → You are facing South.  
+- Stelle dich mit Osten auf deiner linken Seite und Westen auf deiner rechten Seite → Du blickst nach Süden.
+
 
 ## Tipps / Tips
 
