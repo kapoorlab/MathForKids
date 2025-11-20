@@ -86,3 +86,4 @@ Once you know East and West, North is perpendicular to them:
 - Use windows: Look where the sun rises → that’s East  
 - Use a compass: Most smartphones have compass apps  
 - Remember your room: Once you know North, you can easily find the other directions
+
