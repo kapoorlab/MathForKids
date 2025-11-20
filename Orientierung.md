@@ -1,7 +1,5 @@
 # Orientierung und Himmelsrichtungen / Directions and Cardinal Points
 
-# Orientierung und Himmelsrichtungen / Directions and Cardinal Points
-
 ---
 
 # 🇩🇪 Deutsch
