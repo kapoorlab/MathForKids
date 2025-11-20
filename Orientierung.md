@@ -1,20 +1,37 @@
 # Orientierung und Himmelsrichtungen / Directions and Cardinal Points
 
-## Einfache Erklärung / Simple Explanation
+# Orientierung und Himmelsrichtungen / Directions and Cardinal Points
 
-Die **vier Haupt-Himmelsrichtungen / The four main cardinal directions**:
+---
 
-| Deutsch      | English       |
-|--------------|---------------|
-| Norden       | North         |
-| Süden        | South         |
-| Osten        | East          |
-| Westen       | West          |
+# 🇩🇪 Deutsch
 
-- **Norden / North** → Die Richtung, in die die Kompassnadel zeigt / The direction the compass needle points.  
-- **Süden / South** → Gegenüber von Norden / Opposite of North.  
-- **Osten / East** → Die Sonne geht morgens dort auf / Sun rises here in the morning.  
-- **Westen / West** → Die Sonne geht abends dort unter / Sun sets here in the evening.  
+## Einfache Erklärung
+
+Die **vier Haupt-Himmelsrichtungen**:
+
+| Deutsch | Bedeutung |
+|--------|-----------|
+| Norden | Die Richtung, in die die Kompassnadel zeigt |
+| Süden  | Gegenüber von Norden |
+| Osten  | Dort geht morgens die Sonne auf |
+| Westen | Dort geht abends die Sonne unter |
+
+## Die Sonne benutzen
+
+- Morgen → Sonne geht auf → Osten  
+- Abend → Sonne geht unter → Westen  
+
+Sobald du Osten und Westen kennst, ist Norden senkrecht dazu:
+
+- Stelle dich mit Osten auf deiner rechten Seite und Westen auf deiner linken → Du blickst nach Norden  
+- Stelle dich mit Osten auf deiner linken Seite und Westen auf deiner rechten → Du blickst nach Süden
+
+## Tipps
+
+- Fenster orientieren: Morgens schauen, wo die Sonne aufgeht → das ist Osten  
+- Kompass nutzen: Viele Handys haben Kompass-Apps  
+- Zimmer merken: Wenn du Norden kennst, kannst du alle anderen Richtungen leicht bestimmen
 
 ---
 
@@ -40,28 +57,32 @@ Morgens → Sonne geht auf → Osten / Morning → Sun rises in the East
 
 Abends → Sonne geht unter → Westen / Evening → Sun sets in the West
 
-## Using the Sun / Die Sonne benutzen
 
-**Morning → Sun rises → East**  
-**Morgen → Sonne geht auf → Osten**
+# 🇬🇧 English
 
-**Evening → Sun sets → West**  
-**Abend → Sonne geht unter → Westen**
+## Simple Explanation
 
-Once you know East and West, North is perpendicular to them:  
-Sobald du Osten und Westen kennst, ist Norden senkrecht dazu:
+The **four main cardinal directions**:
 
-- Stand with East on your right and West on your left → You are facing North.  
-- Stelle dich mit Osten auf deiner rechten Seite und Westen auf deiner linken Seite → Du blickst nach Norden.
+| English | Meaning |
+|--------|---------|
+| North   | The direction the compass needle points |
+| South   | Opposite of North |
+| East    | The sun rises here in the morning |
+| West    | The sun sets here in the evening |
 
-- Stand with East on your left and West on your right → You are facing South.  
-- Stelle dich mit Osten auf deiner linken Seite und Westen auf deiner rechten Seite → Du blickst nach Süden.
+## Using the Sun
 
+- Morning → Sun rises → East  
+- Evening → Sun sets → West  
 
-## Tipps / Tips
+Once you know East and West, North is perpendicular to them:
 
-Fenster orientieren / Use windows: Morgens schauen, wo die Sonne aufgeht → das ist Osten / Look at the sun in the morning → that’s East.
+- Stand with East on your right and West on your left → you are facing North  
+- Stand with East on your left and West on your right → you are facing South
 
-Kompass nutzen / Use a compass: Viele Handys haben Kompass-Apps / Many phones have compass apps.
+## Tips
 
-Zimmer merken / Remember your room: Wenn du weißt, wo Norden ist, kannst du alle anderen Richtungen leicht bestimmen / Once you know North, other directions are easy.
+- Use windows: Look where the sun rises → that’s East  
+- Use a compass: Most smartphones have compass apps  
+- Remember your room: Once you know North, you can easily find the other directions
